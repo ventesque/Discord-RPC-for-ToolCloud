@@ -19,8 +19,8 @@ Then follow these Steps:
 2. Install nodejs and npm
 3. When inside the folder, do `npm install` and then start the script with `node index.js`
 
-This script will then try to connect to your open Discord application and ToolCloud addon for Firefox. 
+This script will then try to connect to your open Discord application and [ToolCloud addon for Firefox](https://addons.mozilla.org/en-US/firefox/addon/toolcloud/). 
 
-When connected succesfully it will start displaying your player status on your Discord rich presence
+When connected succesfully it will start displaying your SoundCloud player status on your Discord rich presence as seen in the preview.
 
 Please note that the Addon connection only works if you have Soundcloud open in any tab.
