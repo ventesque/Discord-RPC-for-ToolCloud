@@ -1,7 +1,7 @@
 import { WebSocket } from "ws";
 import { Client} from "@xhayper/discord-rpc";
 // put your own application id in here
-const clientId = ("1412869654262710443");
+const clientId = ("");
 
 let retryInterval;
 let wss;
